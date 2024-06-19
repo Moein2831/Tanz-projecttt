@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Consulting Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .navbar {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .navbar a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        .hero {
+            background-color: #f4f4f4;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .hero h1 {
+            margin: 0;
+        }
+        .section {
+            padding: 20px;
+        }
+        .services, .team, .contact {
+            text-align: center;
+        }
+        .service-item, .team-member {
+            margin: 20px 0;
+        }
+        .contact-form {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background-color: #fafafa;
+        }
+        .contact-form input, .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#team">Team</a>
+        <a href="#contact">Contact</a>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero" id="home">
+        <h1>Welcome to Our Legal Consulting Services</h1>
+        <p>Professional and experienced legal consulting for your business needs.</p>
+    </div>
+
+    <!-- Services Section -->
+    <div class="section services" id="services">
+        <h2>Our Services</h2>
+        <div class="service-item">
+            <h3>Corporate Law</h3>
+            <p>Expert advice on corporate governance and compliance.</p>
+        </div>
+        <div class="service-item">
+            <h3>Contract Review</h3>
+            <p>Detailed contract review and drafting services.</p>
+        </div>
+        <div class="service-item">
+            <h3>Litigation Support</h3>
+            <p>Comprehensive litigation support for businesses.</p>
+        </div>
+    </div>
+
+    <!-- Team Section -->
+    <div class="section team" id="team">
+        <h2>Meet Our Team</h2>
+        <div class="team-member">
+            <h3>John Doe</h3>
+            <p>Senior Partner</p>
+        </div>
+        <div class="team-member">
+            <h3>Jane Smith</h3>
+            <p>Associate Lawyer</p>
+        </div>
+        <div class="team-member">
+            <h3>Michael Brown</h3>
+            <p>Paralegal</p>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="section contact" id="contact">
+        <h2>Contact Us</h2>
+        <form class="contact-form">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+            <input type="submit" value="Send Message">
+        </form>
+    </div>
+</body>
+</html>
+.
+.
+.
+‌.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Legal Consulting Website</title>
+</head>
+<body>
+  <header>
+    <h1>Your Law Firm Name</h1>
+    <p>Slogan or short description of your services</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Welcome!</h2>
+      <p>Describe your legal consulting services here.</p>
+    </section>
+
+    <section>
+      <h2>Our Practice Areas</h2>
+      <ul>
+        <li>List your practice areas here (e.g., family law, criminal justice)</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© Copyright 2024 Your Law Firm Name</p>
+  </footer>
+</body>
+</html>
