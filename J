@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>رزومه - نام شما</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>نام شما</h1>
+        <p>شغل مورد نظر شما</p>
+    </header>
+
+    <main>
+        <section class="about-me">
+            <h2>درباره من</h2>
+            <p>متن کوتاهی درباره خودتان، مهارت ها و تجربیاتتان بنویسید.</p>
+        </section>
+
+        <section class="experience">
+            <h2>سابقه کاری</h2>
+            <ul>
+                <li>
+                    <h3>عنوان شغلی</h3>
+                    <h4>نام شرکت</h4>
+                    <p>تاریخ شروع - تاریخ پایان</p>
+                    <ul>
+                        <li>شرح وظایف و دستاوردهایتان را بنویسید.</li>
+                    </ul>
+                </li>
+                </ul>
+        </section>
+
+        <section class="education">
+            <h2>تحصیلات</h2>
+            <ul>
+                <li>
+                    <h3>مدرک تحصیلی</h3>
+                    <h4>نام دانشگاه</h4>
+                    <p>تاریخ شروع - تاریخ پایان</p>
+                </li>
+                </ul>
+        </section>
+
+        <section class="skills">
+            <h2>مهارت ها</h2>
+            <ul>
+                <li>مهارت 1</li>
+                <li>مهارت 2</li>
+                </ul>
+        </section>
+
+        <section class="contact">
+            <h2>اطلاعات تماس</h2>
+            <ul>
+                <li>ایمیل: آدرس ایمیل شما</li>
+                <li>تلفن: شماره تلفن شما</li>
+                <li>لینکدین: https://www.linkedin.com/</li>
+                </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 نام شما</p>
+    </footer>
+</body>
+</html>
